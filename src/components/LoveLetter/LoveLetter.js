@@ -39,6 +39,8 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? "fullSize" : ""}`}>
+        Dear pumpkin,
+        <br />
         Be my girl, and I'll be your boy. Together, we can explore the world and
         share our dreams. With you, every moment feels like an adventure , and
         every dream seems within reach. I want to journey through life hand in
